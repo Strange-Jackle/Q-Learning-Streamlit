@@ -6,6 +6,9 @@
 This project implements Q-Learning in a 5x5 grid environment using Streamlit for an interactive UI. The grid world allows users to customize obstacles and experiment with Q-Learning to find the optimal path for an agent from a starting point (1x1) to a goal point (5x5). The agent learns how to navigate through the grid using Q-Learning, considering various obstacles placed by the user.
 
 ![Q-Learning Example](./image.png) <!-- Replace with an actual image of the interface -->
+## Demo
+
+https://q-learning-app-hh2tiwxuzsqk67ebvkiqcn.streamlit.app/
 
 ## Features
 
