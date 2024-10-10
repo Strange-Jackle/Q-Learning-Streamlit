@@ -34,14 +34,14 @@ pip install streamlit numpy matplotlib
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/q-learning-grid.git
-cd q-learning-grid
+git clone https://github.com/Strange-Jackle/Q-Learning-Streamlit.git
+cd Q-Learning-Streamlit
 ```
 
 2. Run the Streamlit application:
 
 ```bash
-streamlit run app.py
+streamlit run q_learning_grid.py
 ```
 
 3. Open the provided local URL in your browser (usually http://localhost:8501).
