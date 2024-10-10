@@ -91,10 +91,10 @@ You can easily customize this project:
 - **Improved Obstacles:** Add features like walls or moving obstacles.
 - **Performance Optimization:** Increase efficiency for larger environments and longer training sessions.
 
-## License
+## License [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 This project is licensed under the MIT License.
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/strangejackle)
 
